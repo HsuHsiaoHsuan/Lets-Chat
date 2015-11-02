@@ -1,0 +1,27 @@
+{
+  "name": "letstalk",
+  "description": "Let's talk",
+  "main": "index.js",
+  "authors": [
+    "Hsu",
+    "Hsiao-Hsuan"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "Instance",
+    "Message"
+  ],
+  "moduleType": [],
+  "homepage": "static/index.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "angular": "~1.4.7"
+  }
+}

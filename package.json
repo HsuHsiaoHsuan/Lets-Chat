@@ -1,0 +1,19 @@
+{
+  "name": "letstalk",
+  "version": "1.0.0",
+  "description": "Let's talk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Instance",
+    "Message"
+  ],
+  "author": "Hsu, Hsiao-Hsuan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3",
+    "socket.io": "^1.3.7"
+  }
+}
