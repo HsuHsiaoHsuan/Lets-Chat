@@ -1,7 +1,7 @@
 {
-  "name": "letstalk",
+  "name": "letschat",
   "version": "1.0.0",
-  "description": "Let's talk",
+  "description": "Let's Chat",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
